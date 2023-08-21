@@ -1,0 +1,57 @@
+1.transactionlar soni bo'yicha top branches
+2.transactionlar summasi bo'yicha top branches
+3.transactionda bo'lgan top productlar
+4.transactionda soni bo'yicha bo'lgan top categorylar
+5.har bir branchda har bir categorydan qancha transaction bo'lgani 
+13. har kuni o'rtacha qancha product kiritilgani va chiqarilgani bo'yicha jadval:
+    branch      o'rtacha+   o'rtacha-
+1. Chilonzor      73         34
+2. MGorkiy        60         75
+...    ...     ...    ...       ...
+
+14. Har kuni o'rtacha qancha product kiritilgani va chiqarilgani bo'yicha jadval:
+    branch      o'rtacha+   o'rtacha-
+1. Chilonzor      73         34
+2. MGorkiy        60         75
+...    ...     ...    ...       ...
+
+15. Har kuni o'rtacha user qancha summa product kiritgani va chiqargani bo'yicha jadval:
+    branch      o'rtacha+        o'rtacha-
+1. Anvar          370 000         435 000
+2. Shuhrat        60 000          875 000
+
+--------------------------------------------------------
+Qayta topshirish 5ta masala
+Shohruh Jo'raboyev, [8/21/23 6:01 PM]
+7. har bir kunda kirgan productlar sonini kamayish tartibida chiqarish:
+        kun         soni
+    1. 2023-08-04   789
+    2. 2023-08-12   634
+    ...  ...  ...  ...
+8. Product qancha kiritilgan va chiqarilganligi jadvali:
+    Name    Kiritilgan  Chiqarilgan
+    Olma     345            847
+    Cola     374            219
+    ....     ...       ...   ....
+
+Shohruh Jo'raboyev, [8/21/23 6:02 PM]
+9. Filialda qancha summalik product borligi jadvali:
+
+1. Branch1        853 000
+2. Branch2      1 982 000
+...    ...   ...   ...  ...
+
+Shohruh Jo'raboyev, [8/21/23 6:02 PM]
+12. har bir user qancha product kiritgani va chiqargani jadvali:
+         kiritgan  chiqargan
+1 Akrom    12         84
+2 Suhrob   54         33
+...   ...   ...   ...  ...
+
+Shohruh Jo'raboyev, [8/21/23 6:02 PM]
+8. Product qancha kiritilgan va chiqarilganligi jadvali:
+    Name    Kiritilgan  Chiqarilgan
+    Olma     345            847
+    Cola     374            219
+    ....     ...       ...   ....
+---------------------------------------------------------
